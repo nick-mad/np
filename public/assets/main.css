@@ -1,0 +1,19 @@
+.textarea {
+    width: 400px;
+    height: 40px;
+    float: left;
+    margin-right: 5px;
+}
+
+.btn {
+    padding: 1px 5px;
+    min-width: 50px;
+}
+
+.error {
+    color: crimson;
+}
+
+.success {
+    color: forestgreen;
+}

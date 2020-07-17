@@ -1,0 +1,11 @@
+{
+    "name": "nick/np_test",
+    "description": "test NP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
